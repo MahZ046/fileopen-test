@@ -1,0 +1,11 @@
+C:\Users\mahzy\source\repos\openfile\openfile\bin\Debug\openfile.exe.config
+C:\Users\mahzy\source\repos\openfile\openfile\bin\Debug\openfile.exe
+C:\Users\mahzy\source\repos\openfile\openfile\bin\Debug\openfile.pdb
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.csproj.AssemblyReference.cache
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.Form1.resources
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.Properties.Resources.resources
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.csproj.GenerateResource.cache
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.csproj.CoreCompileInputs.cache
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.exe
+C:\Users\mahzy\source\repos\openfile\openfile\obj\Debug\openfile.pdb
